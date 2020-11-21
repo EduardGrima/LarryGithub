@@ -2,5 +2,5 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Eduard grima**
+**Eduard grima**, Git fan.
 eduardgrima@gmail.com
